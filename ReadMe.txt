@@ -2,6 +2,8 @@
 https://www.youtube.com/playlist?list=PLeqyOOqxeiIOtV_wVIJPLqvpnrtiE5heC
 https://www.codewars.com/kata/578b4f9b7c77f535fc00002f
 
+Win+Shift+S
+
 TODO:
 1. Машина должна заводиться и расходовать топливо;
 
